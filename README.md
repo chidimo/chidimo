@@ -2,7 +2,7 @@
 
 I'm a frontend developer with Softcom, currently working on [Koya](https://koya.co) LMS.
 
-I'm currently sharpening my GraphQL skills with a side project, employing `Apollo Client` on the frontend and `Graphene-Python` (`Graphene-Django`) on the backend.
+I'm currently sharpening my GraphQL skills with a side project, employing `Apollo Client` on the frontend and `Graphene-Python`/`Graphene-Django` on the backend.
 
 I'm also taking baby steps in TypeScript.
 
