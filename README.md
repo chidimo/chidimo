@@ -1,5 +1,12 @@
 # Hi there 👋, chidimo here
 
+You can reach me via these channels
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chidi-orji/)](https://www.linkedin.com/in/chidi-orji/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orjichidi95@gmail.com)](mailto:orjichidi95@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/chi_di_mo)](https://www.twitter.com/chi_di_mo)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=002349036650603)](https://api.whatsapp.com/send?phone=002349036650603)
+
 I'm a frontend developer with Softcom, currently working on [Koya](https://koya.co) LMS.
 
 I'm currently sharpening my GraphQL skills with a side project, employing `Apollo Client` on the frontend and `Graphene-Python`/`Graphene-Django` on the backend.
@@ -21,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## How to reach me (in code)
+### Just for fun
 
 ```javascript
 {
