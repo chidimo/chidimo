@@ -1,17 +1,13 @@
-# Hi there 👋, chidimo here
+# Hi there 👋, I'm Chidi Orji
 
-You can reach me via these channels
+[![Phone](https://img.shields.io/badge/Phone-%2B2349036650603-blue)](tel:+2349036650603)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://www.github.com/chidimo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chidi-orji/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:orjichidi95@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/chi_di_mo)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+2349036650603)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chidi-orji/)](https://www.linkedin.com/in/chidi-orji/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orjichidi95@gmail.com)](mailto:orjichidi95@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/chi_di_mo)](https://www.twitter.com/chi_di_mo)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=002349036650603)](https://api.whatsapp.com/send?phone=002349036650603)
-
-I'm a frontend developer with Softcom, currently working on [Koya](https://koya.co) LMS.
-
-I'm currently sharpening my GraphQL skills with a side project, employing `Apollo Client` on the frontend and `Graphene-Python`/`Graphene-Django` on the backend.
-
-I'm also taking baby steps in TypeScript.
+I'm a frontend developer with Softcom, currently working on [Identify](https:beta.identify.softcom.xyz) and [Koya](https://koya.co) LMS.
 
 <!--
 **chidimo/chidimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
