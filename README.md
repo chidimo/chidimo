@@ -1,13 +1,36 @@
-# Hi there 👋, I'm Chidi Orji
 
-[![Phone](https://img.shields.io/badge/Phone-%2B2349036650603-blue?style=flat-square)](tel:+2349036650603)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://www.github.com/chidimo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chidi-orji/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:orjichidi95@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/chi_di_mo)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+2349036650603)
+<div  align='center'>
 
-I'm a frontend developer with Softcom, currently working on [Identify](https:beta.identify.softcom.xyz) and [Koya](https://koya.co) LMS.
+# Hi, my name is Chidi Orji
+
+</div>
+
+I'm a Full-Stack developer with more experience on the Frontend.
+
+I am proficient in JavaScript/React (on the Frontend) and Python/Django (on the backend)
+
+Please feel free to check out my [portfolio](https://chidimo.vercel.app/portfolio) and [resume](https://docs.google.com/document/d/1zV-1cdYFYVq8AxzmyLgCXedTC4ppP_ngtBCFmgGzgso/edit?usp=sharing) or contact me directly using one of the methods listed below
+
+<hr>
+
+<div align='center'>
+
+<h2>Hire me </h2>
+
+[![GitHub Badge](https://img.shields.io/badge/-chidimo-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/chidimo)
+[![Linkedin Badge](https://img.shields.io/badge/-chidi%20orji-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chidi-orji/)
+[![Gmail Badge](https://img.shields.io/badge/-orjichidi95@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:orjichidi95@gmail.com)
+<!-- [![Phone](https://img.shields.io/badge/Mobile-%2B2349036650603-blue?style=for-the-badge)](tel:+2349036650603) -->
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/chidimo_Dev) -->
+<!-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+2349036650603) -->
+
+</div>
+
+
+<hr>
+
+I work with [Softcom nigeria limited](https://softcom.xyz) as a frontend developer. I worked with the [Koya LMS](https://koya.co) team to develope the Koya Admin App, Koya Accounts app, and the Koya user app. I currently work with the [Identify](https:beta.identify.softcom.xyz) team, developing the [usepass](https://usepass.io) app.
+
 
 <!--
 **chidimo/chidimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +47,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Just for fun
+<!-- ## Just for fun
 
 ```javascript
 {
@@ -50,4 +73,4 @@ Here are some ideas to get you started:
     django: 'latest',
   },
 }
-```
+``` -->
