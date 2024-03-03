@@ -20,7 +20,6 @@ Please feel free to check out my [Work experience](https://chidimo.vercel.app/ex
 [![GitHub Badge](https://img.shields.io/badge/-chidimo-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/chidimo)
 [![Linkedin Badge](https://img.shields.io/badge/-chidi%20orji-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chidi-orji/)
 [![Gmail Badge](https://img.shields.io/badge/-orjichidi95@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:orjichidi95@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-chidimo-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/chidimo_Dev)
 
 <!-- [![Phone](https://img.shields.io/badge/Mobile-%2B2349036650603-blue?style=for-the-badge)](tel:+2349036650603) -->
 <!-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+2349036650603) -->
