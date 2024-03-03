@@ -30,8 +30,7 @@ Please feel free to check out my [Work experience](https://chidimo.vercel.app/ex
 
 <hr>
 
-I work with [Softcom nigeria limited](https://softcom.xyz) as a frontend developer. I worked with the [Koya LMS](https://koya.co) team to develope the Koya Admin App, Koya Accounts app, and the Koya user app. I currently work with the [Identify](https:beta.identify.softcom.xyz) team, developing the [usepass](https://usepass.io) app.
-
+Currently building the awesome Reach platform @ Interswitch Group
 
 <!--
 **chidimo/chidimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,6 +67,7 @@ Here are some ideas to get you started:
   languages: {
     python: 'latest',
     javascript: 'latest',
+    typescript: 'latest',
   },
   frameworks: {
     react: 'latest',
