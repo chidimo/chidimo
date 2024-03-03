@@ -7,9 +7,9 @@
 
 I'm a Full-Stack developer with more experience on the Frontend.
 
-I am proficient in JavaScript/React (on the Frontend) and Python/Django (on the backend)
+I am proficient in JavaScript/TypeScript/React (on the Frontend) and Python/Django/NodeJS/Express/Prisma (on the backend)
 
-Please feel free to check out my [Work experience](https://chidimo.vercel.app/experience), [portfolio](https://chidimo.vercel.app/portfolio), and [resume](https://docs.google.com/document/d/1zV-1cdYFYVq8AxzmyLgCXedTC4ppP_ngtBCFmgGzgso/edit?usp=sharing) or contact me directly using one of the methods listed below
+Please feel free to check out my [works](https://chidimo.netlify.app/portfolio).
 
 <hr>
 
